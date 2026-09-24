@@ -1,4 +1,4 @@
-# 📊 Power BI Task 3 – Interactive Dashboard
+# 📊 Interactive Dashboard
 
 ## 📌 Project Overview
 
