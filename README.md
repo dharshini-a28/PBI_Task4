@@ -142,22 +142,6 @@ The following screenshot shows the overall Power BI dashboard with the created v
 
 ---
 
-## 📊 Dashboard Overview
-
-This screenshot shows the main overview of the dashboard and the different visual components used for data analysis.
-
-![Dashboard Overview](screenshots/overview.png)
-
----
-
-## 📈 Data Visualizations
-
-The dashboard uses different charts and graphs to represent the data in a visual format.
-
-![Data Visualizations](screenshots/visualization.png)
-
----
-
 ## 🔍 Key Features
 
 ### ✨ Interactive Dashboard
